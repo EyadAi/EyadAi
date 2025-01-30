@@ -13,6 +13,7 @@ Here are some of my key projects:
 
 -**📝 Handwritten Digit Recognition 📝**: A deep learning model trained to recognize and predict handwritten digits from the MNIST dataset. [Take a look !!](https://github.com/EyadAi/Mnist-Hand-Written-Digit-Recognetion)
 
+-**❄️ FrostBite Chatbot ❄️**: FrostBite is a simple and lightweight chatbot designed for casual conversations. [Check it out!](https://github.com/EyadAi/FrostBite-ChatBot)
 
 
 ## 📫 How to reach me
